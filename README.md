@@ -1,7 +1,13 @@
 <!-- Full-Width MasterHead GIF -->
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" alt="MasterHead" style="width:100%; height:auto;" />
+  <img 
+    src="https://t4.ftcdn.net/jpg/05/60/02/91/360_F_560029138_HuyluR3MHV7Iex3G4MXDLGUIpx3Mi2Lv.jpg" 
+    alt="MasterHead" 
+    style="width:100%; height:300px; border-radius:35px; filter:brightness(45%);" 
+  />
 </div>
+
+
 
 ---
 
