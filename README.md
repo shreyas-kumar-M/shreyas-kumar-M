@@ -1,7 +1,7 @@
 <!-- Full-Width MasterHead GIF -->
 <div align="center">
   <img 
-    src="https://t4.ftcdn.net/jpg/05/60/02/91/360_F_560029138_HuyluR3MHV7Iex3G4MXDLGUIpx3Mi2Lv.jpg" 
+    src="https://github.com/shreyas-kumar-M/shreyas-kumar-M/blob/main/Black%20Minimalist%20Motivation%20Quote%20LinkedIn%20Banner%20(1).png" 
     alt="MasterHead" 
     style="width:100%; height:300px; border-radius:35px; filter:brightness(45%);" 
   />
